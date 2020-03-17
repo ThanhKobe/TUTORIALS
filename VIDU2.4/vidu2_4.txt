@@ -1,0 +1,3 @@
+viet chuong trinh nhap vao hai so nguyen to a,b: sau do thuc hien mot trong bon phep tinh cong, tru, nhan, chia: a+b; a-b, a*b, a/b (neu go ky tu + thuc hien phep cong, neu go ky tu - thuc hien phep tru, tuong tu...
+Su dung switch case
+

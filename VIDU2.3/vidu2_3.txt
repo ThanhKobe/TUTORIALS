@@ -1,0 +1,2 @@
+viet chuong trinh nhap vao hai so nguyen a,b; sau do thuc hien mot trong bon phep tinh cong, tru, nhan, chia,: a+b; a-b; a*c, a/c (neu go ky tu + thi thuc hien phep cong, neu go ky tu - thi thuc hien phep tru,..)
+
