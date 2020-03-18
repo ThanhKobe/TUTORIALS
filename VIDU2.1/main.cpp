@@ -1,3 +1,5 @@
+//coder : ThanhKobe
+//so sanh 3 so a,b,c
 #include<iostream>
 
 int main(){
