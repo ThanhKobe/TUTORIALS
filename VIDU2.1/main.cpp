@@ -5,7 +5,7 @@
 int main(){
 
  float a,b,c, max;
- std::cout << "Nhap vao 3 so: ";
+ std::cout << "Nhap vao 3 gia tri de so sanh: ";
  std::cin >> a >> b >> c;
  max = a;
  if (b>max) max=b;
