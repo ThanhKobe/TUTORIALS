@@ -1,5 +1,6 @@
 //Coder by: ThanhKobe
-//
+// Chuong trinh nhap 2 so nguyen 
+// Tao ra hinh chu nhat
 #include <iostream>
 
 using namespace std;
