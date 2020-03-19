@@ -13,10 +13,10 @@ int main(){
     cin >> N;
 
     for(int i=1; i<=M; i++)  {
-        for (int j=1;j<= N; j++){
+        for (int j=1;j<= N; j++)
             cout <<"*";
             cout << endl; // dud con tro ve dau dong
-        }
+        
     }
     return 0;
 }

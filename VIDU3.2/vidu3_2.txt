@@ -1,0 +1,5 @@
+Viet chuong trinh nhap 2 so nguyen M va N. hay in ra so nguyen ra man hinh chu nhat dac M dong N, co hinh dang nhu sau voi cac canh bieu dien bang dau x. 
+* * * * * *
+* * * * * *
+* * * * * *
+
