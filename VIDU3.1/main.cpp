@@ -5,9 +5,10 @@
 
 int main(){
     int n,d = 0;
+    std::cout <<"Nhap gia tri vao chuong trinh: " << std::endl;
     std::cin >> n;
 
-    for(int i =1; i <=n; n++)
+    for(int i =1; i<=n; i++)
         if (n%i==0)
         d++;
         if (d==2)
