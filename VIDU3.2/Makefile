@@ -8,9 +8,9 @@ CXXFLAGS = -std=c++11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = vidu3_2
+APPNAME = my_vidu32
 EXT = .cpp
-SRCDIR = /home/kobe/Documents/Tutorial/VIDU3.2
+SRCDIR = /home/thanhkobe/Documents/TUTORIALS/VIDU3.2
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############

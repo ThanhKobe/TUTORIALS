@@ -1,1 +1,1 @@
-obj/main.o: /home/kobe/Documents/Tutorial/VIDU3.2/main.cpp
+obj/main.o: /home/thanhkobe/Documents/TUTORIALS/VIDU3.2/main.cpp
