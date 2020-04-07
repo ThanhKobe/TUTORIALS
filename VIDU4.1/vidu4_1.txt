@@ -1,0 +1,4 @@
+viet chuong trinh nhap vao mot so nguyen duong n va n so nguyen duong a[0], a[1], a[2], ..., a[n-1].
+Hay tinh tong cac phan tu 
+Hay dem xem trong mang co bao nhieu so duong ? Bao nhieu so am ? Bao nhieu so bang 0?
+
