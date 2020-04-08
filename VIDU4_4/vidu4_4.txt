@@ -1,0 +1,1 @@
+Nhap vao mot mang hai chieu a gom m dong n cot, cac phan tu la cac so nguyen va mot so nguyen x. Hay kiem tra xem trong mang co bao nhieu so bang x? Tim vi tri (dong,cot) cua cac phan tu do.
