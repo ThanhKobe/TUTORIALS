@@ -1,0 +1,4 @@
+viet chuong trinh thuc hien cac cong viec sau:
+Nhap day n so nguyen duong.
+Dem so luong cac so nguyen to trong day.
+
