@@ -1,0 +1,1 @@
+Viet chuong trinh cho phep tinh dien tich cua hinh vuong khi biet do dai canh, hinh chu nhat khi biet do dai 2 canh, hinh tam giac khi biet do dai 3 canh, hinh tron khi biet do dai ban kinh.
