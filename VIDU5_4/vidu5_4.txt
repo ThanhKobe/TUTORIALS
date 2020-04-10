@@ -1,0 +1,5 @@
+Tinh so hang thu n cua day Fibonasci F(n) biet:
+F(1)=1
+F(2)=2
+f(n)=F(n-1)+F(n-2)
+
