@@ -5,7 +5,8 @@ using namespace std;
 
 int x[1000];
 int m, dem=0;
-
+void xuat();
+void tim();
 
 void xuat(){
     cout << ++dem << setw(4);
@@ -15,19 +16,19 @@ void xuat(){
 
 }
 
-void duyetnhiphan(int i){
+void tim(int i){
     for (int j=0;j<=1;j++)
         {
             x[i]=j;
-            if(i==m)
+            if(i==m) //neu tim den x i cuoi cung thi xuat ra ket qua
                 xuat();
             else
-                duyetnhiphan(i+1);
+                tim(i+1); //chua tim den i cuoi thi tang i len
         }
 }
 
 int main(){
     cout <<"Nhap m =: ";
     cin >> m;
-    duyetnhiphan(1);        
+    tim(1);      
 }
