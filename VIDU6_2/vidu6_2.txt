@@ -1,0 +1,1 @@
+Nhap vao n so nguyen tu ban phim, sau do xuat ra man hinh lan luot dau tien la cac so chan, sau do la cac so le.
