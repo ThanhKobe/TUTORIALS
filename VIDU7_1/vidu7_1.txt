@@ -1,0 +1,1 @@
+Hoặc bài tập cấp phát động cho kiểu cấu trúc sinh viên dưới đây, ta thực hiện nhập, xuất và sắp xếp danh sách sinh viên theo điểm sử dụng cấp phát động cho con trỏ trong C++ (new và delete):

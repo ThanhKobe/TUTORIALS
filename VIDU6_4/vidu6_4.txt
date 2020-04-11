@@ -1,0 +1,2 @@
+viet chuong trinh nhap mang 2 chieu, cac phan tu la cac so nguyen va mot so nguyen x. hay dem xem trong mang co bao nhieu so bang x?
+
